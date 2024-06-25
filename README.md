@@ -3,6 +3,18 @@ Repositorio criado para compartilhar o PODCAST criado com o auxilio de IAs Gener
 
 # Projeto Podcast Gerado por I.A.s
 
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="300"
+/>
+</p>
+
+<p align="center">
+    preview do podcast no arquivo output
+</p>
+
+
  > ℹ️ **NOTE:** Este é o repositório foi desenvolvido para o curso da Universidade Santander em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
